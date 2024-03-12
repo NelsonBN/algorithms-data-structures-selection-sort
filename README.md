@@ -9,7 +9,7 @@
     - Worst: O(n^2)
 - Space complexity: O(1)
 - In-place
-- Stable
+- Unstable
 
 
 ## Demonstration
